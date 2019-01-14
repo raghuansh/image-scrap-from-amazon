@@ -8,7 +8,6 @@ import csv
 
 
 ##selenium driver object##
-# driver = webdriver.Firefox(executable_path='/home/ecsch1l20/Documents/Data_Science/watch_scrap/geckodriver')
 driver = webdriver.Chrome('/home/bhavesh/Documents/Data_Science/watch_scrap/chromedriver')
 driver.get('https://www.amazon.in/s/ref=sr_in_-2_p_89_14?fst=as%3Aoff&rh=k%3Awatches%2Cn%3A1350387031%2Cp_89%3AFossil&bbn=1350387031&keywords=watches&ie=UTF8&qid=1517909003&rnid=3837712031')
 
